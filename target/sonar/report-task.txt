@@ -1,0 +1,6 @@
+projectKey=git-maven-jenkins
+serverUrl=http://3.110.184.149:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://3.110.184.149:9000/dashboard?id=git-maven-jenkins
+ceTaskId=d28afcab-7f6d-4e11-8659-7406346082c0
+ceTaskUrl=http://3.110.184.149:9000/api/ce/task?id=d28afcab-7f6d-4e11-8659-7406346082c0
